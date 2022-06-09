@@ -11,3 +11,5 @@ const App = () => {
 }
 
 export default App
+
+// deploy link on surge=>https://simplistic-skin.surge.sh/
